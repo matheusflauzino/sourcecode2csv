@@ -11,11 +11,10 @@ try:
     path_output = sys.argv[2]
     # project = 'abdera'
     project = sys.argv[3]
-
     print('----------------------')
     print('init process..')
     print('----------------------')
-
+    #read files
     def read_file_java(path):
         list_of_lists = []
         with open(path) as f:
@@ -25,7 +24,7 @@ try:
                 # inner_list = [int(elt.strip()) for elt in line.split(',')]
                 list_of_lists.append(inner_list)
         return list_of_lists
-
+    #list files tree
     def list_files(startpath):
         result = []
         count = 0
@@ -40,20 +39,19 @@ try:
                 rd_file = read_file_java(full_path)
                 count += 1
                 # print('read {} file...'.format(f))
-                result.append({'hash' : hash_git, 'full_path' : full_path, 'file' : rd_file})
+                result.append({'hash' : hash_git,'project' : project, 'full_path' : full_path, 'file' : rd_file})
         print('read {} files...'.format(count))
         print('----------------------')
         return result
 
 
+    #process data frame
     data = list_files(path_input)
-    df = pd.DataFrame(data,columns=['hash','full_path','file'])
+    df = pd.DataFrame(data,columns=['project','hash','full_path','file'])
     path_save = "{}/{}.csv".format(path_output,project)
     if not os.path.isdir(path_output):
         os.mkdir(path_output)
     df.to_csv(path_save)
-
-
     print('end process..')
     print('----------------------')
 except IndexError:

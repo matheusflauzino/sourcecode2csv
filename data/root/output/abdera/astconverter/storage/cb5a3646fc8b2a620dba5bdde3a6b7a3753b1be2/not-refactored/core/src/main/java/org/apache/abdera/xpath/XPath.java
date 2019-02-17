@@ -1,0 +1,43 @@
+// isComment
+package isPackage;
+
+import isImport;
+import isImport;
+import isImport;
+import isImport;
+
+/**
+ * isComment
+ */
+public interface isClassOrIsInterface {
+
+    public static final isClassOrInterfaceInstantiation isVariable = isNameExpr.isMethod();
+
+    isClassOrInterfaceInstantiation<isClassOrInterfaceInstantiation, isClassOrInterfaceInstantiation> isMethod();
+
+    void isMethod(isClassOrInterfaceInstantiation<isClassOrInterfaceInstantiation, isClassOrInterfaceInstantiation> isParameter);
+
+    isClassOrInterfaceInstantiation isMethod(isClassOrInterfaceInstantiation isParameter, isClassOrInterfaceInstantiation isParameter) throws isClassOrInterfaceInstantiation;
+
+    isClassOrInterfaceInstantiation isMethod(isClassOrInterfaceInstantiation isParameter, isClassOrInterfaceInstantiation isParameter) throws isClassOrInterfaceInstantiation;
+
+    isClassOrInterfaceInstantiation isMethod(isClassOrInterfaceInstantiation isParameter, isClassOrInterfaceInstantiation isParameter) throws isClassOrInterfaceInstantiation;
+
+    isClassOrInterfaceInstantiation isMethod(isClassOrInterfaceInstantiation isParameter, isClassOrInterfaceInstantiation isParameter) throws isClassOrInterfaceInstantiation;
+
+    boolean isMethod(isClassOrInterfaceInstantiation isParameter, isClassOrInterfaceInstantiation isParameter) throws isClassOrInterfaceInstantiation;
+
+    isClassOrInterfaceInstantiation isMethod(isClassOrInterfaceInstantiation isParameter, isClassOrInterfaceInstantiation isParameter) throws isClassOrInterfaceInstantiation;
+
+    isClassOrInterfaceInstantiation isMethod(isClassOrInterfaceInstantiation isParameter, isClassOrInterfaceInstantiation isParameter, isClassOrInterfaceInstantiation<isClassOrInterfaceInstantiation, isClassOrInterfaceInstantiation> isParameter) throws isClassOrInterfaceInstantiation;
+
+    isClassOrInterfaceInstantiation isMethod(isClassOrInterfaceInstantiation isParameter, isClassOrInterfaceInstantiation isParameter, isClassOrInterfaceInstantiation<isClassOrInterfaceInstantiation, isClassOrInterfaceInstantiation> isParameter) throws isClassOrInterfaceInstantiation;
+
+    isClassOrInterfaceInstantiation isMethod(isClassOrInterfaceInstantiation isParameter, isClassOrInterfaceInstantiation isParameter, isClassOrInterfaceInstantiation<isClassOrInterfaceInstantiation, isClassOrInterfaceInstantiation> isParameter) throws isClassOrInterfaceInstantiation;
+
+    isClassOrInterfaceInstantiation isMethod(isClassOrInterfaceInstantiation isParameter, isClassOrInterfaceInstantiation isParameter, isClassOrInterfaceInstantiation<isClassOrInterfaceInstantiation, isClassOrInterfaceInstantiation> isParameter) throws isClassOrInterfaceInstantiation;
+
+    boolean isMethod(isClassOrInterfaceInstantiation isParameter, isClassOrInterfaceInstantiation isParameter, isClassOrInterfaceInstantiation<isClassOrInterfaceInstantiation, isClassOrInterfaceInstantiation> isParameter) throws isClassOrInterfaceInstantiation;
+
+    isClassOrInterfaceInstantiation isMethod(isClassOrInterfaceInstantiation isParameter, isClassOrInterfaceInstantiation isParameter, isClassOrInterfaceInstantiation<isClassOrInterfaceInstantiation, isClassOrInterfaceInstantiation> isParameter) throws isClassOrInterfaceInstantiation;
+}
