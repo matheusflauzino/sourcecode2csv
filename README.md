@@ -9,3 +9,5 @@ Convert Source Code to CSV
 pip install pandas
 python3 sourcecode2csv.py <inputDir> <outputDir> <projectName>
 ```
+
+![Exemplo](screencast.gif)
